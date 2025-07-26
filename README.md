@@ -51,10 +51,10 @@ Ensure the following dependencies are installed:
 
 ## 🧰 Technologies Used
 
-- **Frontend:** React.js, Tailwind CSS  
-- **Routing:** React Router (if used)  
-- **State Management:** Context API / Redux (if applicable)  
-- **Deployment:** Netlify / Vercel / GitHub Pages
+- **Frontend:** React.js, SCSS  
+- **Routing:** React Router  
+- **State Management:** Context API  
+- **Deployment:** Netlify
 
 ---
 
