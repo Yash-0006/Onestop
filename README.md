@@ -1,6 +1,6 @@
 # Project Name: **OneStop Blogging platform**
 
-**OneStop** is a dynamic and modern **blogging platform** designed for sharing articles, news, updates, and announcements all in one place. Built with React and styled using Tailwind CSS, it offers a responsive, user-friendly experience for both readers and content creators.
+**OneStop** is a dynamic and modern **blogging platform** designed for sharing articles, news, updates, and announcements all in one place. Built with React and styled using SCSS, it offers a responsive, user-friendly experience for both readers and content creators.
 
 ---
 
