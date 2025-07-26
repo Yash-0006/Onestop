@@ -1,11 +1,6 @@
-# Project Name: **OneStop**
+# Project Name: **OneStop Blogging platform**
 
-OneStop is an online platform designed to consolidate essential services and information in one accessible interface — covering announcements, user dashboard, service modules, and contact integration. Built for seamless usability and responsive access.
-
-## 🔗 Live Demo
-
-[Click here to view the live site](https://ebhigna2k25.netlify.app/)
-*(Update this link to the correct OneStop deployment URL if different)*
+**OneStop** is a dynamic and modern **blogging platform** designed for sharing articles, news, updates, and announcements all in one place. Built with React and styled using Tailwind CSS, it offers a responsive, user-friendly experience for both readers and content creators.
 
 ---
 
